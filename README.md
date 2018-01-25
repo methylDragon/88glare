@@ -1,0 +1,10 @@
+## 88glare (Bye Bye Glare!)
+
+High beam headlights cause significant persistent afterimages, especially during night driving when the eye has adapted to the dark. 
+
+Visibility is affected both directly by glare and the subsequent persistent afterimage due to it, that typically lasts 10s but can last as long as 300s. Notwithstanding the comfort issue, this reduced visibility poses a significant risk to drivers. In fact, many accidents, including fatal ones, can be attributed to glares and the persistent afterimage. Furthermore, existing solutions only attenuate glare; but this instead results in no change to the persistence of afterimages. leaving the problem critically unresolved. Additionally, they are static and cannot adapt dynamically.
+In order to safeguard the road safety and comfort for drivers, there is a desperate need for a dynamic solution that both attenuates the glare caused by oncoming traffic, and reduces the incidence and persistence of afterimages by attenuating the brightness of an incoming light.
+
+Thus informed, we designed a pair of variable sunglasses that can be dynamically darkened when necessary, hence reducing glare and afterimage without needlessly hindering visibility. The sunglasses process light inputs to darken the lenses correspondingly, and algorithmically optimises the protection from glare and afterimage, while preserving visibility, as well as smooth the transitions for user comfort. Furthermore, for safety and UX reasons, we added three modes to modify the parameters of maximum shade, smoothness, and sensitivity of response to function across three main use-scenarios – when the user has 1) No headlights, (pedestrians), 2) Low-beam headlights, 3) High-beam headlights, as is appropriate.
+
+The result is a pair of sunglasses that can be used safely on the road at night, darkening only when it needs to; which will go a long way in ameliorating the problem of road accidents and fatalities caused by glare and afterimage. 
